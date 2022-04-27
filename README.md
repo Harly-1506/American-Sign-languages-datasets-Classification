@@ -8,7 +8,11 @@ These 3 classes are very helpful in real-time applications, and classification.
 The test data set contains a mere 29 images, to encourage the use of real-world test images.
 
 > Dataset: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
-> Model File: HandSignCNNver2.ipynb
+
+> Model file: ASL_ResNet50.ipynb
+
+> File weight: https://drive.google.com/file/d/1BWnrKKHsJGq8lmchogcNfea3vcrZTetY/view?usp=sharing
+
 
 ### Model
 
@@ -22,3 +26,5 @@ The test data set contains a mere 29 images, to encourage the use of real-world 
 ### Model
 
 > Using basic CNN with 90% accuracy 
+
+> Model File: HandSignCNN.ipynb
