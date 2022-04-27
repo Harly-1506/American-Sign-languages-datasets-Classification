@@ -1,4 +1,4 @@
-# Sign-languages-datasets-Classification-CNN
+# American Sign-languages-datasets-Classification
 ## First Dataset
 > The data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes.
 
