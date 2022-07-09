@@ -1,30 +1,30 @@
 # American Sign-languages-datasets-Classification
 ## First Dataset
-> The data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes.
+* The data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes.
 
 
-> The training data set contains 87,000 images which are 200x200 pixels. There are 29 classes, of which 26 are for the letters A-Z and 3 classes for SPACE, DELETE and NOTHING.
+* The training data set contains 87,000 images which are 200x200 pixels. There are 29 classes, of which 26 are for the letters A-Z and 3 classes for SPACE, DELETE and NOTHING.
 These 3 classes are very helpful in real-time applications, and classification.
 The test data set contains a mere 29 images, to encourage the use of real-world test images.
 
-> Dataset: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+* Dataset: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
-> Model file: ASL_ResNet50.ipynb
+* Model file: ASL_ResNet50.ipynb
 
-> File weight: https://drive.google.com/file/d/1BWnrKKHsJGq8lmchogcNfea3vcrZTetY/view?usp=sharing
+* File weight: https://drive.google.com/file/d/1BWnrKKHsJGq8lmchogcNfea3vcrZTetY/view?usp=sharing
 
 
 ### Model
 
-> Using ResNet50: weight: imageNet, Include_top: False with 99% accuracy
+* Using ResNet50: weight: imageNet, Include_top: False with 99% accuracy
 ## Second dataset
 
-> This dataset have 36 classes with 70 images each folder
+* This dataset have 36 classes with 70 images each folder
 
-> Dataset: https://www.kaggle.com/datasets/ayuraj/asl-dataset?fbclid=IwAR11k3oHQv13ABctZh7LoF41BDggAMbPIx4InPKuB-83VhWHvRa1fDWr3vo
+* Dataset: https://www.kaggle.com/datasets/ayuraj/asl-dataset?fbclid=IwAR11k3oHQv13ABctZh7LoF41BDggAMbPIx4InPKuB-83VhWHvRa1fDWr3vo
 
 ### Model
 
-> Using basic CNN with 90% accuracy 
+* Using basic CNN with 90% accuracy 
 
-> Model File: HandSignCNN.ipynb
+* Model File: HandSignCNN.ipynb
